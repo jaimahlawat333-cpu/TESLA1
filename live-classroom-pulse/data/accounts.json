@@ -1,0 +1,29 @@
+[
+  {
+    "id": "742fae6c-7cfa-4d12-a3cf-c339783dda1d",
+    "email": "red@gmail.com",
+    "role": "teacher",
+    "password": {
+      "salt": "58ca0ff002a3780e9e2ba974d6800671",
+      "hash": "6f3222b18b9a8cd432364068b10cb20885c6329ff49b50c2fc07cc348c8b4fbfacfc2f7150ded1d75bdc0e203a604bf7902262ce7f4430b89cef79a1fe758508"
+    }
+  },
+  {
+    "id": "e41f6295-4968-430b-bca2-7d78e11c898a",
+    "email": "eye@gmail.com",
+    "role": "teacher",
+    "password": {
+      "salt": "f8b832a5612e8b93eae866a8cd992a3f",
+      "hash": "a53ca23ce212bc61ea553df73d339213acd06e132108dec5315cc2b47b23c414ee97eba416bbfd8372e24f58c10d12ce1de2957bb1d901ae44ebcf71d53aade4"
+    }
+  },
+  {
+    "id": "571395a2-81a4-42cd-b0a8-8cb8d942573b",
+    "email": "jaiaii@gmial.com",
+    "role": "student",
+    "password": {
+      "salt": "4f17f73cc5dfcc15d7e6e9892db9688b",
+      "hash": "819746c016c01d71070aa99d499408fe2deec061e35e2a29b56013c108566f06a3b5a4bbd6de27552ba5689953c8c10eef8563cf339599ed0dbf2376ff3de741"
+    }
+  }
+]

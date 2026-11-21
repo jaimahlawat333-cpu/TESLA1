@@ -1,0 +1,97 @@
+{
+  "room": {
+    "name": "Python Fundamentals",
+    "code": "PULSE24",
+    "teacher": "Demo Teacher"
+  },
+  "topics": [
+    {
+      "id": "variables",
+      "name": "Variables & Data Types"
+    },
+    {
+      "id": "conditions",
+      "name": "Conditional Statements"
+    },
+    {
+      "id": "loops",
+      "name": "For & While Loops"
+    },
+    {
+      "id": "functions",
+      "name": "Functions"
+    }
+  ],
+  "session": {
+    "id": "demo-session",
+    "started": 1795297448575,
+    "active": true
+  },
+  "events": [],
+  "participants": {
+    "571395a2-81a4-42cd-b0a8-8cb8d942573b": {
+      "lastActive": 1795299121056
+    }
+  },
+  "polls": [
+    {
+      "id": "poll-1",
+      "topic": "loops",
+      "question": "What does a for loop help you do?",
+      "options": [
+        "Repeat a block of code",
+        "Create a variable",
+        "Stop a program",
+        "Style a webpage"
+      ],
+      "correct": 0,
+      "active": false,
+      "revealed": false,
+      "responses": {}
+    },
+    {
+      "id": "928e5fcb-00ac-4c15-a57f-4c924eb5c6d7",
+      "question": "jdfddjnhnfjsd",
+      "topic": "variables",
+      "options": [
+        "sdasnds",
+        "sdasddsada",
+        "dsadsds",
+        "dasd"
+      ],
+      "correct": 0,
+      "active": true,
+      "revealed": true,
+      "responses": {
+        "571395a2-81a4-42cd-b0a8-8cb8d942573b": 1
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "e077d20b-4901-4a1f-be62-2d4c49f23e02",
+      "text": "How can we sleep without sleeping ",
+      "at": 1795299121056
+    }
+  ],
+  "doubts": [
+    {
+      "id": "cad0d2cf-6dee-4ba2-9694-6e02ad2bd8f1",
+      "name": "Anand",
+      "question": "I can't sleep",
+      "studentToken": "571395a2-81a4-42cd-b0a8-8cb8d942573b",
+      "status": "pending",
+      "createdAt": 1795299145658
+    }
+  ],
+  "quizzes": [],
+  "notes": [
+    {
+      "id": "331ff00a-3546-4161-ae4e-95fe489c183c",
+      "name": "cars_2_with_100_characteristics.txt",
+      "file": "1795298995030-e7c41223d8.txt",
+      "size": 10055,
+      "uploadedAt": 1795298995038
+    }
+  ]
+}

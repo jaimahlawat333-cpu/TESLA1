@@ -1,0 +1,207 @@
+CAR COMPARISON DATASET
+Two cars; 100 characteristics per car.
+Note: Exact specifications depend on model year, trim, and country. Values are marked 'Varies by version' where they cannot be determined from the model name alone.
+
+[Toyota Corolla]
+001. Make: Toyota
+002. Model: Corolla
+003. Model year: Varies by year/trim/market
+004. Trim level: Varies by year/trim/market
+005. Body style: Varies by year/trim/market
+006. Vehicle segment: Varies by year/trim/market
+007. Country of manufacture: Varies by year/trim/market
+008. Assembly location: Varies by year/trim/market
+009. Engine type: Varies by year/trim/market
+010. Engine displacement: Varies by year/trim/market
+011. Number of cylinders: Varies by year/trim/market
+012. Engine configuration: Varies by year/trim/market
+013. Fuel type: Varies by year/trim/market
+014. Fuel injection type: Varies by year/trim/market
+015. Maximum power: Varies by year/trim/market
+016. Maximum torque: Varies by year/trim/market
+017. Transmission type: Varies by year/trim/market
+018. Number of gears: Varies by year/trim/market
+019. Drive type: Varies by year/trim/market
+020. Fuel economy: Varies by year/trim/market
+021. Fuel tank capacity: Varies by year/trim/market
+022. Emission standard: Varies by year/trim/market
+023. Start-stop system: Varies by year/trim/market
+024. Hybrid system: Varies by year/trim/market
+025. Battery capacity: Varies by year/trim/market
+026. Electric motor power: Varies by year/trim/market
+027. Driving range: Varies by year/trim/market
+028. Charging type: Varies by year/trim/market
+029. Front suspension: Varies by year/trim/market
+030. Rear suspension: Varies by year/trim/market
+031. Front brakes: Varies by year/trim/market
+032. Rear brakes: Varies by year/trim/market
+033. Steering type: Varies by year/trim/market
+034. Turning radius: Varies by year/trim/market
+035. Wheelbase: Varies by year/trim/market
+036. Overall length: Varies by year/trim/market
+037. Overall width: Varies by year/trim/market
+038. Overall height: Varies by year/trim/market
+039. Ground clearance: Varies by year/trim/market
+040. Kerb weight: Varies by year/trim/market
+041. Gross vehicle weight: Varies by year/trim/market
+042. Seating capacity: Varies by year/trim/market
+043. Number of doors: Varies by year/trim/market
+044. Boot capacity: Varies by year/trim/market
+045. Front headroom: Varies by year/trim/market
+046. Rear headroom: Varies by year/trim/market
+047. Front legroom: Varies by year/trim/market
+048. Rear legroom: Varies by year/trim/market
+049. Tyre size: Varies by year/trim/market
+050. Wheel size: Varies by year/trim/market
+051. Spare wheel type: Varies by year/trim/market
+052. Airbag count: Varies by year/trim/market
+053. ABS: Varies by year/trim/market
+054. Electronic stability control: Varies by year/trim/market
+055. Traction control: Varies by year/trim/market
+056. Hill-start assist: Varies by year/trim/market
+057. Rear parking sensors: Varies by year/trim/market
+058. Front parking sensors: Varies by year/trim/market
+059. Rear camera: Varies by year/trim/market
+060. 360-degree camera: Varies by year/trim/market
+061. Blind-spot monitoring: Varies by year/trim/market
+062. Lane departure warning: Varies by year/trim/market
+063. Automatic emergency braking: Varies by year/trim/market
+064. Adaptive cruise control: Varies by year/trim/market
+065. Cruise control: Varies by year/trim/market
+066. Speed limiter: Varies by year/trim/market
+067. ISOFIX child-seat mounts: Varies by year/trim/market
+068. Central locking: Varies by year/trim/market
+069. Keyless entry: Varies by year/trim/market
+070. Push-button start: Varies by year/trim/market
+071. Climate control: Varies by year/trim/market
+072. Air conditioning: Varies by year/trim/market
+073. Cabin air filter: Varies by year/trim/market
+074. Infotainment screen: Varies by year/trim/market
+075. Touchscreen size: Varies by year/trim/market
+076. Apple CarPlay: Varies by year/trim/market
+077. Android Auto: Varies by year/trim/market
+078. Bluetooth connectivity: Varies by year/trim/market
+079. USB ports: Varies by year/trim/market
+080. Wireless charging: Varies by year/trim/market
+081. Speaker count: Varies by year/trim/market
+082. Navigation system: Varies by year/trim/market
+083. Instrument cluster type: Varies by year/trim/market
+084. Headlight type: Varies by year/trim/market
+085. Daytime running lights: Varies by year/trim/market
+086. Fog lights: Varies by year/trim/market
+087. Rain-sensing wipers: Varies by year/trim/market
+088. Power windows: Varies by year/trim/market
+089. Power-adjustable mirrors: Varies by year/trim/market
+090. Sunroof: Varies by year/trim/market
+091. Seat material: Varies by year/trim/market
+092. Driver seat adjustment: Varies by year/trim/market
+093. Rear-seat split: Varies by year/trim/market
+094. Steering adjustment: Varies by year/trim/market
+095. Warranty period: Varies by year/trim/market
+096. Service interval: Varies by year/trim/market
+097. Approximate price: Varies by year/trim/market
+098. Paint colour: Varies by year/trim/market
+099. Number of previous owners: Varies by year/trim/market
+100. Available exterior colours: Varies by year/trim/market
+
+[Honda Civic]
+001. Make: Honda
+002. Model: Civic
+003. Model year: Varies by year/trim/market
+004. Trim level: Varies by year/trim/market
+005. Body style: Varies by year/trim/market
+006. Vehicle segment: Varies by year/trim/market
+007. Country of manufacture: Varies by year/trim/market
+008. Assembly location: Varies by year/trim/market
+009. Engine type: Varies by year/trim/market
+010. Engine displacement: Varies by year/trim/market
+011. Number of cylinders: Varies by year/trim/market
+012. Engine configuration: Varies by year/trim/market
+013. Fuel type: Varies by year/trim/market
+014. Fuel injection type: Varies by year/trim/market
+015. Maximum power: Varies by year/trim/market
+016. Maximum torque: Varies by year/trim/market
+017. Transmission type: Varies by year/trim/market
+018. Number of gears: Varies by year/trim/market
+019. Drive type: Varies by year/trim/market
+020. Fuel economy: Varies by year/trim/market
+021. Fuel tank capacity: Varies by year/trim/market
+022. Emission standard: Varies by year/trim/market
+023. Start-stop system: Varies by year/trim/market
+024. Hybrid system: Varies by year/trim/market
+025. Battery capacity: Varies by year/trim/market
+026. Electric motor power: Varies by year/trim/market
+027. Driving range: Varies by year/trim/market
+028. Charging type: Varies by year/trim/market
+029. Front suspension: Varies by year/trim/market
+030. Rear suspension: Varies by year/trim/market
+031. Front brakes: Varies by year/trim/market
+032. Rear brakes: Varies by year/trim/market
+033. Steering type: Varies by year/trim/market
+034. Turning radius: Varies by year/trim/market
+035. Wheelbase: Varies by year/trim/market
+036. Overall length: Varies by year/trim/market
+037. Overall width: Varies by year/trim/market
+038. Overall height: Varies by year/trim/market
+039. Ground clearance: Varies by year/trim/market
+040. Kerb weight: Varies by year/trim/market
+041. Gross vehicle weight: Varies by year/trim/market
+042. Seating capacity: Varies by year/trim/market
+043. Number of doors: Varies by year/trim/market
+044. Boot capacity: Varies by year/trim/market
+045. Front headroom: Varies by year/trim/market
+046. Rear headroom: Varies by year/trim/market
+047. Front legroom: Varies by year/trim/market
+048. Rear legroom: Varies by year/trim/market
+049. Tyre size: Varies by year/trim/market
+050. Wheel size: Varies by year/trim/market
+051. Spare wheel type: Varies by year/trim/market
+052. Airbag count: Varies by year/trim/market
+053. ABS: Varies by year/trim/market
+054. Electronic stability control: Varies by year/trim/market
+055. Traction control: Varies by year/trim/market
+056. Hill-start assist: Varies by year/trim/market
+057. Rear parking sensors: Varies by year/trim/market
+058. Front parking sensors: Varies by year/trim/market
+059. Rear camera: Varies by year/trim/market
+060. 360-degree camera: Varies by year/trim/market
+061. Blind-spot monitoring: Varies by year/trim/market
+062. Lane departure warning: Varies by year/trim/market
+063. Automatic emergency braking: Varies by year/trim/market
+064. Adaptive cruise control: Varies by year/trim/market
+065. Cruise control: Varies by year/trim/market
+066. Speed limiter: Varies by year/trim/market
+067. ISOFIX child-seat mounts: Varies by year/trim/market
+068. Central locking: Varies by year/trim/market
+069. Keyless entry: Varies by year/trim/market
+070. Push-button start: Varies by year/trim/market
+071. Climate control: Varies by year/trim/market
+072. Air conditioning: Varies by year/trim/market
+073. Cabin air filter: Varies by year/trim/market
+074. Infotainment screen: Varies by year/trim/market
+075. Touchscreen size: Varies by year/trim/market
+076. Apple CarPlay: Varies by year/trim/market
+077. Android Auto: Varies by year/trim/market
+078. Bluetooth connectivity: Varies by year/trim/market
+079. USB ports: Varies by year/trim/market
+080. Wireless charging: Varies by year/trim/market
+081. Speaker count: Varies by year/trim/market
+082. Navigation system: Varies by year/trim/market
+083. Instrument cluster type: Varies by year/trim/market
+084. Headlight type: Varies by year/trim/market
+085. Daytime running lights: Varies by year/trim/market
+086. Fog lights: Varies by year/trim/market
+087. Rain-sensing wipers: Varies by year/trim/market
+088. Power windows: Varies by year/trim/market
+089. Power-adjustable mirrors: Varies by year/trim/market
+090. Sunroof: Varies by year/trim/market
+091. Seat material: Varies by year/trim/market
+092. Driver seat adjustment: Varies by year/trim/market
+093. Rear-seat split: Varies by year/trim/market
+094. Steering adjustment: Varies by year/trim/market
+095. Warranty period: Varies by year/trim/market
+096. Service interval: Varies by year/trim/market
+097. Approximate price: Varies by year/trim/market
+098. Paint colour: Varies by year/trim/market
+099. Number of previous owners: Varies by year/trim/market
+100. Available exterior colours: Varies by year/trim/market
